@@ -37,6 +37,3 @@ HTML5  CSS3  Boostrap  Javascript   React  Python  C  Java  Cpp
 
 VSCode  PyCharm  Jupyter
 
-💻OS :
-
-PyCharm 
