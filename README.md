@@ -24,6 +24,8 @@ I read articles on latest technologies in my free time
 
 HTML5  CSS3  Boostrap  Javascript   React  Node.js  Python  C  Java  Cpp 
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
+
 📟IDEs I've Used:
 
 VSCode  PyCharm  Jupyter
