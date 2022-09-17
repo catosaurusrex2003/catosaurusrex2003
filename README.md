@@ -22,7 +22,7 @@ I keep exploring subjects of my interest on the internet
 I read articles on latest technologies in my free time
 🛠️ Languages and Tools :
 
-HTML5  CSS3  Boostrap  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>JavaScript</title>  React  Node.js  Python  C 
+HTML5  CSS3  Boostrap  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">   React  Node.js  Python  C 
 Java  Cpp 
 
 📟IDEs I've Used:
