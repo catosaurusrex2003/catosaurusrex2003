@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hey There !  , I am Mohammed Mehdi
-My areas of interest include Web Development, Machine Learning🔥
+My areas of interest include Web Development, Machine Learning🔥\n
 👨‍💻 About Me :
 I am a college student from India, pursuing B.Tech Computer Science and Engineering(Data Science)
 I keep exploring subjects of my interest on the internet
