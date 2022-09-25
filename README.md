@@ -1,5 +1,5 @@
 ### Hey There !  , I am Mohammed Mehdi
-My areas of interest include Web Development, Machine Learning🔥\n
+My areas of interest include Web Development, competitive programming🔥\n
 
 
 
