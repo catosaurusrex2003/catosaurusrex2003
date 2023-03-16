@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there<br>i am a college student currently pursuing a degree in CS(DS)<br>i am currently working on web development<br>and occasionally do competitive programming
+Hello there<br>i am a college student currently pursuing a degree in CS(DS)<br>i am currently working on web development<br>and occasionally do competitive programming<br> <a href= "https://docs.google.com/document/d/18ojOu4bdDioRT02rUBmmo-hXXASg9xWkWOuUMGaFIuc/edit" >Resume</a>
 
 
 ## 🌐 Socials:
