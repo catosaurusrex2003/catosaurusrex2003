@@ -4,4 +4,4 @@
 
 
 
-💼 Open to remote opportunities.
+💼 Open to remote opportunities in Software Engineering, Developer Tools & Open Source.
